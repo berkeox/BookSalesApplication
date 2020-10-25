@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe.config
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\bin\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.Properties.Resources.resources
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.exe
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.pdb
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.LoginForm.resources
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.SignUp.resources
+C:\Users\asus\source\repos\YazilimBakimi.KitapSatisUygulamasi\YazilimBakimi.KitapSatisUygulamasi\obj\Debug\YazilimBakimi.KitapSatisUygulamasi.AdminLogin.resources
